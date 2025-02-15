@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-- my personal achievement： https://shopaholic-game.com/ https://sprunki-sprunki.org/
+- my personal achievement
+  - https://shopaholic-game.com/
+  -  https://sprunki-sprunki.org/
 - backlin website
   - https://www.websitecarbon.com/
 
