@@ -6,6 +6,7 @@
   -  https://sprunki-sprunki.org/
 - backlin website
   - https://www.websitecarbon.com/
+  - https://launched.lovable.app/submit
 
 <!--
 **wang1309/wang1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
