@@ -5,6 +5,7 @@
   - https://shopaholic-game.com/
   -  https://sprunki-sprunki.org/
   -  https://mewtrix.com/
+  -  https://www.funny-shooter2.org/
 - backlin website
   - https://www.websitecarbon.com/
   - https://launched.lovable.app/submit
