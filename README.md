@@ -7,6 +7,9 @@
   -  https://mewtrix.com/
   -  https://www.funny-shooter2.org/
   -  https://italian-brainrot-clicker.com/
+- AI Tool Web
+  - https://beautycamai.com/  
+  
 - backlin website
   - https://www.websitecarbon.com/
   - https://launched.lovable.app/submit
