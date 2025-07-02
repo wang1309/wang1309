@@ -7,6 +7,7 @@
   -  https://mewtrix.com/
   -  https://www.funny-shooter2.org/
   -  https://italian-brainrot-clicker.com/
+  -  https://fortzonebattle.org/
 - AI Tool Web
   - https://beautycamai.com/  
   
