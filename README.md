@@ -9,7 +9,8 @@
   -  https://italian-brainrot-clicker.com/
   -  https://fortzonebattle.org/
 - AI Tool Web
-  - https://beautycamai.com/  
+  - https://beautycamai.com/
+  - https://storiesgenerator.org/
   
 - backlin website
   - https://www.websitecarbon.com/
