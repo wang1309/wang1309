@@ -11,6 +11,7 @@
 - AI Tool Web
   - https://beautycamai.com/
   - https://storiesgenerator.org/
+  - https://fluxchat.org
   
 - backlin website
   - https://www.websitecarbon.com/
