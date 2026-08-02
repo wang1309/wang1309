@@ -14,6 +14,7 @@
   - https://fluxchat.org
   - https://seedances2.org/
   - https://hellokittycoloringpages.com/
+  - https://minecraftpixel.app/
   
 - backlin website
   - https://www.websitecarbon.com/
