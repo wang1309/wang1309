@@ -15,6 +15,7 @@
   - https://seedances2.org/
   - https://hellokittycoloringpages.com/
   - https://minecraftpixel.app/
+  - https://lovecomic.app
   
 - backlin website
   - https://www.websitecarbon.com/
